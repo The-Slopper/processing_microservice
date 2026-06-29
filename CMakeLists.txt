@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(processing_microservice
         VERSION 1.0.0
-        DESCRIPTION "Execucao controlada de processos do sistema operacional."
+        DESCRIPTION "Controlled execution of operating system processes."
         HOMEPAGE_URL "https://git.example.com/processing-microservice"
         LANGUAGES CXX)
 
